@@ -59,14 +59,20 @@ end
 endmodule
 ```
 **RTL LOGIC UP COUNTER**
+
+
 ![image](https://github.com/harshiniyu/SYNCHRONOUS-UP-COUNTER/assets/144979786/713ff702-58a8-4796-8a70-8a03f9ece645)
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
+
 ![image](https://github.com/harshiniyu/SYNCHRONOUS-UP-COUNTER/assets/144979786/02da6eff-00f9-4eec-af57-001fe2dc1a79)
 
 
 **TRUTH TABLE**
+
+
 ![image](https://github.com/harshiniyu/SYNCHRONOUS-UP-COUNTER/assets/144979786/e7367d68-6d54-472f-bee7-ec56ca1d4fec)
 
 **RESULTS**
